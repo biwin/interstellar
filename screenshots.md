@@ -2,45 +2,45 @@
 
 ### <a name="top">PythonQuick Navigation</a>
 
-[Python](#python)
-[Django](#settings)
-[Interface](#interface)
-[Version Control Operations](#vcs)
-[Dialogs](#dialogs)
-[HTML](#html)
-[Django/Jinja Templates](#jinja)
-[JavaScript](#js)
-[CoffeeScript](#coffee)
-[JSON](#json)
-[SASS/SCSS](#sass)
-[CSS](#css)
+1. [Python](#python)
+1. [Django](#settings)
+1. [Interface](#interface)
+1. [Version Control Operations](#vcs)
+1. [Dialogs](#dialogs)
+1. [HTML](#html)
+1. [Django/Jinja Templates](#jinja)
+1. [JavaScript](#js)
+1. [CoffeeScript](#coffee)
+1. [JSON](#json)
+1. [SASS/SCSS](#sass)
+1. [CSS](#css)
 
 The screenshots of the scheme
 
 ### <a name="python">Python</a> | [view full size ][1] | [go to top](#top) 
-[![][1]][1]
+![interstellar theme Pytho][1]
 ### <a name="settings">Django Settings File</a>  | [view full size ][2] | [go to top](#top) 
-[![][2]][2]
+![interstellar theme Django Settings File][2]
 ### <a name="interface">Interface</a>  | [view full size ][3] | [go to top](#top) 
-[![][3]][3]
+![interstellar theme Interface][3]
 ### <a name="vcs">VCS Difference</a>  | [view full size ][4] | [go to top](#top) 
-[![][4]][4]
+![interstellar theme VCS Difference][4]
 ### <a name="dialogs">PyCharm Dialogs</a>  | [view full size ][5] | [go to top](#top) 
-[![][5]][5]
+![interstellar theme PyCharm Dialogs][5]
 ### <a name="html">HTML</a>  | [view full size ][6] | [go to top](#top) 
-[![][6]][6]
+![interstellar theme HTML][6]
 ### <a name="jinja">Jinja</a>  | [view full size ][7] | [go to top](#top) 
-[![][7]][7]
+![interstellar theme Jinja][7]
 ### <a name="js">JavaScript</a>  | [view full size ][8] | [go to top](#top) 
-[![][8]][8]
+![interstellar theme JavaScript][8]
 ### <a name="coffee">CoffeeScript</a>  | [view full size ][9] | [go to top](#top) 
-[![][9]][9]
+![interstellar theme CoffeeScript][9]
 ### <a name="json">JSON</a>  | [view full size ][10] | [go to top](#top) 
-[![][10]][10]
+![interstellar theme JSON][10]
 ### <a name="sass">SASS</a>  | [view full size ][11] | [go to top](#top) 
-[![][11]][11]
+![interstellar theme SASS][11]
 ### <a name="css">CSS</a>  | [view full size ][12] | [go to top](#top) 
-[![][12]][12]
+![interstellar theme CSS][12]
 
 
 

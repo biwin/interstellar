@@ -1,10 +1,13 @@
 # Interstellar
 Darcula based dark editor scheme for PyCharm.
 
-## Screenshot
+## Screenshots
 
+![interstellar pycharm dark theme screenshot VCS](https://raw.githubusercontent.com/biwin/interstellar/master/screenshots/home.png)
 ![interstellar pycharm dark theme screenshot](https://raw.githubusercontent.com/biwin/interstellar/master/interstellar.png)
+![interstellar pycharm dark theme screenshot VCS](https://raw.githubusercontent.com/biwin/interstellar/master/screenshots/vcs-crop.png)
 
+## [see more screenshots] (https://github.com/biwin/interstellar/blob/master/screenshots.md)
 
 ## Installation
 Installation is simple as copying the theme to PyCharm configuration directory
@@ -36,4 +39,3 @@ copy the interstellar to PyCharm configuration directory (`.Pycharm50` for PyCha
 	* click Apply then OK
 
 	* Have fun
-
