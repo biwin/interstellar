@@ -12,7 +12,7 @@ Darcula based dark editor scheme for PyCharm.
 ## Installation
 Installation is simple as copying the theme to PyCharm configuration directory
 
-###Linux
+### Linux
 
 
 clone the repository
@@ -28,7 +28,7 @@ copy the interstellar to PyCharm configuration directory (`.Pycharm50` for PyCha
 	$ cp interstellar.icls ~/.PyCharm50/config/colors/
 
 
-##Activation
+## Activation
 	
 	* restart pycharm (if already running)
 
@@ -39,3 +39,6 @@ copy the interstellar to PyCharm configuration directory (`.Pycharm50` for PyCha
 	* click Apply then OK
 
 	* Have fun
+
+- - - -
+Please star this repo if you like this scheme. That encourage me to experiment with colors like this one in my free time. Thanks.
